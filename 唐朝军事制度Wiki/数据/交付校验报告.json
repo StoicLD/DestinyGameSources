@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "generated_as_of": "2026-09-17",
+  "markdown_files": 95,
+  "root_markdown_files": 60,
+  "qa_standalone_files": 14,
+  "case_files": 9,
+  "source_reading_cards": 10,
+  "office_explanatory_rows": 66,
+  "dispute_records": 28,
+  "source_records": 34,
+  "independent_body_cjk_count": 78085,
+  "qa_cjk_count": 20782,
+  "local_links_checked": 1265,
+  "footnote_definitions_checked": 608,
+  "unresolved_placeholders": 0,
+  "broken_local_links": 0,
+  "missing_footnotes": 0,
+  "duplicate_footnotes": 0,
+  "utf8_passed": true,
+  "json_parse_passed": true,
+  "limitations": [
+    "未声称所有外链未来持续可达",
+    "本地构建校验不等于解决所有历史争议",
+    "专著核读范围逐项标注",
+    "字数未重复计算合订本，统计为CJK汉字"
+  ]
+}
